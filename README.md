@@ -1,9 +1,9 @@
-# PFCII_Implementacion
+# PFCII Avance
 
-CovXNet: A multi-dilation convolutional neural network for automatic COVID-19 and other pneumonia detection from chest X-ray images with transferable multi-receptive feature optimization
+- CovXNet: A multi-dilation convolutional neural network for automatic COVID-19 and other pneumonia detection from chest X-ray images with transferable multi-receptive feature optimization
 
 https://www.sciencedirect.com/science/article/pii/S0010482520302250
 
-A hybrid explainable ensemble transformer encoder for pneumonia identification from chest X-ray images
+- A hybrid explainable ensemble transformer encoder for pneumonia identification from chest X-ray images
 
 https://www.sciencedirect.com/science/article/pii/S2090123222002028
