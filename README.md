@@ -2,8 +2,8 @@
 
 - CovXNet: A multi-dilation convolutional neural network for automatic COVID-19 and other pneumonia detection from chest X-ray images with transferable multi-receptive feature optimization
 
-https://www.sciencedirect.com/science/article/pii/S0010482520302250
+    https://www.sciencedirect.com/science/article/pii/S0010482520302250
 
 - A hybrid explainable ensemble transformer encoder for pneumonia identification from chest X-ray images
 
-https://www.sciencedirect.com/science/article/pii/S2090123222002028
+    https://www.sciencedirect.com/science/article/pii/S2090123222002028
