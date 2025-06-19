@@ -12,10 +12,9 @@
 
 # RESULTADOS
 1. Databases
-    | Característica     | Mendeley Chest X-ray Dataset                                                                                         | Guangzhou Women and Children’s Medical Center Dataset (Paul Mooney)                                       |
-|--------------------|------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| 📌 Objetivo         | Clasificación binaria (Normal vs Pneumonía)                                                                            | Imágenes de pacientes normales, con neumonía viral y bacteriana                                            |
-| 🔗 Enlace           | [Mendeley Dataset](https://data.mendeley.com/datasets/rscbjbr9sj/2)                                                    | [Kaggle Dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)                  |
+| Característica     | Mendeley Chest X-ray Dataset                                          | Guangzhou Women and Children’s Medical Center Dataset (Paul Mooney)                       |
+|--------------------|-----------------------------------------------------------------------|----------------------------------------------------------------------------------------   |
+| 🔗 Enlace          | [Mendeley Dataset](https://data.mendeley.com/datasets/rscbjbr9sj/2)   | [Kaggle Dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)  |
 
 2. Técnicas
     * CovXNet
