@@ -13,7 +13,7 @@
 # RESULTADOS
 1. Databases
    
-| Característica  | Mendeley Chest X-ray Dataset                                                                 | Guangzhou Women and Children’s Medical Center Dataset (Paul Mooney)                    |
+| Dataset           | Mendeley Chest X-ray Dataset                                                                 | Guangzhou Women and Children’s Medical Center Dataset (Paul Mooney)                    |
 |-----------------|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | 🔗 Enlace        | [Mendeley Dataset](https://data.mendeley.com/datasets/rscbjbr9sj/2)                          | [Kaggle Dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) |
 
