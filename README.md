@@ -11,6 +11,7 @@
 ---
 
 # RESULTADOS
+Los resultados presentados son en base a la adaptacion e intercambio de la base de datos de ambos papers
 1. Databases
    
     | Dataset           | Mendeley Chest X-ray Dataset                                                                 | Guangzhou Women and Children’s Medical Center Dataset (Paul Mooney)                    |
