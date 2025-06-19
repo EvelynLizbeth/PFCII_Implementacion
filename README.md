@@ -11,7 +11,7 @@
 ---
 
 # RESULTADOS
-| Herramienta                  | Mendeley Chest X-ray Dataset | Guangzhou Women and Children’s Medical Center Dataset PAUL MONEY |
+| Herramienta \DAtaset        | Mendeley Chest X-ray Dataset | Guangzhou Women and Children’s Medical Center Dataset PAUL MONEY |
 |-----------------------------|------------------------------|------------------------------------------------------------------|
 | CovXNet                     | x                            | x                                                                |
 | Hybrid Transformer Ensemble | x                            | x                                                                |
