@@ -29,6 +29,6 @@ Los resultados presentados se dan en base a la adaptación e intercambio de las 
 
     | Técnica \ Dataset           | Mendeley Chest X-ray Dataset | Guangzhou Women and Children’s Medical Center Dataset |
     |-----------------------------|------------------------------|-------------------------------------------------------|
-    | CovXNet                     | x                            | x                                                     |
+    | CovXNet                     | 62.50                        | x                                                     |
     | Hybrid Transformer Ensemble | 99.21                        | x                                                     |
 
