@@ -19,8 +19,8 @@
   
 * Tabla comparativa
 
-| Técnica \ Dataset           | Mendeley Chest X-ray Dataset | Guangzhou Women and Children’s Medical Center Dataset PAUL MONEY |
-|-----------------------------|------------------------------|------------------------------------------------------------------|
-| CovXNet                     | x                            | x                                                                |
-| Hybrid Transformer Ensemble | x                            | x                                                                |
+| Técnica \ Dataset           | Mendeley Chest X-ray Dataset | Guangzhou Women and Children’s Medical Center Dataset |
+|-----------------------------|------------------------------|-------------------------------------------------------|
+| CovXNet                     | x                            | x                                                     |
+| Hybrid Transformer Ensemble | x                            | x                                                     |
 
