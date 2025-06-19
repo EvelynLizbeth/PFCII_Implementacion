@@ -24,9 +24,10 @@
     * Hybrid Transformer Ensemble
   
 3. Tabla comparativa
+## Precisión (%)
 
 | Técnica \ Dataset           | Mendeley Chest X-ray Dataset | Guangzhou Women and Children’s Medical Center Dataset |
 |-----------------------------|------------------------------|-------------------------------------------------------|
 | CovXNet                     | x                            | x                                                     |
-| Hybrid Transformer Ensemble | x                            | x                                                     |
+| Hybrid Transformer Ensemble | 99.21                        | x                                                     |
 
