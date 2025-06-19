@@ -7,3 +7,12 @@
 - Técnica 2: A hybrid explainable ensemble transformer encoder for pneumonia identification from chest X-ray images
 
     https://www.sciencedirect.com/science/article/pii/S2090123222002028
+
+---
+
+# RESULTADOS
+| Herramienta                  | Mendeley Chest X-ray Dataset | Guangzhou Women and Children’s Medical Center Dataset PAUL MONEY |
+|-----------------------------|------------------------------|------------------------------------------------------------------|
+| CovXNet                     | x                            | x                                                                |
+| Hybrid Transformer Ensemble | x                            | x                                                                |
+
