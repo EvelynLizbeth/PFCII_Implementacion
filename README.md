@@ -24,11 +24,4 @@ Los resultados presentados se dan en base a la adaptación e intercambio de las 
       
     * Hybrid Transformer Ensemble
   
-3. Tabla comparativa
-    3.1 Precisión (%)
-
-    | Técnica \ Dataset           | Mendeley Chest X-ray Dataset | Guangzhou Women and Children’s Medical Center Dataset |
-    |-----------------------------|------------------------------|-------------------------------------------------------|
-    | CovXNet                     | 62.50                        | x                                                     |
-    | Hybrid Transformer Ensemble | 99.21                        | x                                                     |
 
